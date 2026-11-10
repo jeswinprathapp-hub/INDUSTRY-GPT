@@ -1,0 +1,37 @@
+Industrial Machine A Operations Manual
+DEMO / SYNTHETIC DATA — NOT FOR REAL INDUSTRIAL USE
+
+1. General Information
+Machine Name: Industrial Machine A
+Model: IMA-2000
+
+2. Operating Limits
+The recommended operating temperature is 60°C–80°C.
+Maximum Pressure: 150 PSI.
+
+3. Startup Procedure
+- Ensure power supply is connected.
+- Press the green START button.
+- Wait for 5 minutes for the system to reach 60°C.
+
+4. Shutdown Procedure
+- Press the red STOP button.
+- Disconnect power supply.
+- Wait for the system to cool down below 40°C before maintenance.
+
+5. Emergency Shutdown Procedure
+In case of overheating (above 80°C) or fire:
+- Press the EMERGENCY STOP button immediately.
+- Evacuate the area.
+- Contact the safety supervisor.
+
+6. Maintenance Schedule
+Preventive maintenance must be performed every 3 months.
+Lubricate the main gear.
+Check for any pressure leaks.
+
+7. Troubleshooting
+If the machine overheats:
+- Check the cooling fan.
+- Ensure the air vents are not blocked.
+- Stop the machine and wait for it to cool down.
