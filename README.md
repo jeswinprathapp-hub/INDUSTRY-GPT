@@ -1,4 +1,5 @@
 # IndustryGPT
+Industrial Knowledge. One Conversation Away.
 
 A Context-Aware Industrial Knowledge Assistant Using Transformer-Based NLP Models.
 
