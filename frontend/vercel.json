@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/(.*)",
+            "destination": "https://industry-gpt.onrender.com/api/$1"
+        }
+    ]
+}
